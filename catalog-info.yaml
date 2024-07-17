@@ -4,6 +4,7 @@ metadata:
   name: testRepo
   annotations:
     github.com/project-slug: IanLeonOlivier/testRepo
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
 spec:
   type: other
   lifecycle: unknown
